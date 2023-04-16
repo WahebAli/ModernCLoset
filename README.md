@@ -7,6 +7,8 @@ Add items to your cart and proceed to checkout.
 
 Track the status of your order.
 
+Expert System chatbot to help you with your queries on time.
+
 # Getting Started
 Create an account by clicking on the "Sign Up" button at the top of the page.
 Browse through the different categories of clothing items available on the website. You can filter your search results by brand names.
