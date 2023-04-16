@@ -2,7 +2,9 @@
 Welcome to ModernCloset! This is a platform where you can shop for trendy and fashionable clothing items online. Below are some guidelines to help you get started.
 # Features
 Browse for clothing items by category.
+
 Add items to your cart and proceed to checkout.
+
 Track the status of your order.
 
 # Getting Started
